@@ -35,4 +35,4 @@
 
 ### association
 - belongs_to :user
-- belonmgs_to :prototype
+- belongs_to :prototype
