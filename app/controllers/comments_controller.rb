@@ -9,8 +9,8 @@ class CommentsController < ApplicationController
       @comments = @prototype.comments
       render "prototypes/show"
     end
-    
   end
+  
   
   private
   def comment_params
